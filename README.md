@@ -1,5 +1,101 @@
 
 # Evo_tech
+# Survey App
+
+This is a simple survey application built with React, Node.js, and Tailwind CSS.
+
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Running the Application](#running-the-application)
+  - [Backend](#backend)
+  - [Frontend](#frontend)
+- [Folder Structure](#folder-structure)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+### Prerequisites
+- Node.js and npm installed (https://nodejs.org/)
+- Git installed (https://git-scm.com/)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/survey-app.git
+   cd survey-app
+Install dependencies for both frontend and backend:
+bash
+Copy code
+# Install backend dependencies
+cd backend
+npm install
+
+# Install frontend dependencies
+cd ../frontend
+npm install
+Running the Application
+Backend
+Navigate to the backend directory:
+
+bash
+Copy code
+cd backend
+Run the server:
+
+bash
+Copy code
+npm start
+The backend server will be running at http://localhost:3001.
+
+Frontend
+Navigate to the frontend directory:
+
+bash
+Copy code
+cd frontend
+Run the React app:
+
+bash
+Copy code
+npm start
+The React app will be running at http://localhost:3000.
+
+Folder Structure
+backend: Node.js backend code
+frontend: React frontend code
+shared: Shared code or configuration used by both frontend and backend
+Technologies Used
+Frontend:
+
+React
+Tailwind CSS
+Backend:
+
+Node.js
+Express
+Contributing
+Feel free to contribute to the project by opening issues or creating pull requests. Follow the Contributing Guidelines.
+
+License
+This project is licensed under the MIT License.
+
+css
+Copy code
+
+Make sure to customize the URLs, folder structure, and other details based on your actual project setup. Additionally, you may want to include a more detailed explanation of the project, its features, and any specific configuration or deployment instructions.
+
+
+
+
+
+Message ChatGPT…
+
+ChatGPT can make mistakes. Consider checking important information.
 
 Survey Form App
 Welcome to the Survey Form App! This application is designed to collect survey responses through a user-friendly front-end and store the data in a MongoDB database using a Node.js back-end.
