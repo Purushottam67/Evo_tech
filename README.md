@@ -1,12 +1,15 @@
 
 # Evo_tech
 
+Survey Form App
 Welcome to the Survey Form App! This application is designed to collect survey responses through a user-friendly front-end and store the data in a MongoDB database using a Node.js back-end.
 
 Features
 Front-end: The user interface is built using HTML, CSS (Tailwind CSS), and React. The form is designed to provide a seamless and engaging experience for survey participants.
 
 Back-end: The server-side logic is implemented using Node.js. It handles the storage and retrieval of survey data in a MongoDB database.
+
+Admin Panel: The Survey Form App includes a secure admin login feature. Admins can log in to access a dedicated admin panel, where they can view and manage all survey response data.
 
 Technologies Used
 Front-end:
@@ -18,6 +21,17 @@ Back-end:
 
 Node.js
 MongoDB
+Deployment
+The Survey Form App is deployed and accessible at https://evotech-assigment.netlify.app/. Feel free to explore the live application and submit a survey response.
+
+Admin Panel
+To access the admin panel, use the provided admin credentials on the login page.
+
+Admin Credentials:
+Username: admin
+Password: admin123
+Once logged in, admins can view and manage all survey response data in the admin dashboard.
+
 Getting Started
 To run the Survey Form App on your local machine, follow these steps:
 
@@ -62,8 +76,4 @@ This project is licensed under the MIT License.
 
 Feel free to explore and enhance the Survey Form App! If you have any questions or suggestions, please don't hesitate to reach out.
 
-Happy surveying! 📊🚀
-
-
-
-
+Happy surveying! 📊
