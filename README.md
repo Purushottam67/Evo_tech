@@ -93,10 +93,6 @@ Make sure to customize the URLs, folder structure, and other details based on yo
 
 
 
-Message ChatGPT…
-
-ChatGPT can make mistakes. Consider checking important information.
-
 Survey Form App
 Welcome to the Survey Form App! This application is designed to collect survey responses through a user-friendly front-end and store the data in a MongoDB database using a Node.js back-end.
 
